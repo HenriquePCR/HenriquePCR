@@ -14,4 +14,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriquePCR&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePCR&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
